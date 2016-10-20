@@ -19,7 +19,8 @@
   "devDependencies": {
     "should": "^7.1.0",
     "standard": "^8.4.0",
-    "supertest": "^1.0.0"
+    "supertest": "^1.0.0",
+    "mocha": "*"
   },
   "scripts": {
     "start": "node app.js",
