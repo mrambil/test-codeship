@@ -2,6 +2,7 @@
 
 //hello world
 //comment 2
+//comment 3
 
 var SwaggerExpress = require('swagger-express-mw');
 var app = require('express')();
