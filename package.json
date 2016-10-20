@@ -23,6 +23,6 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "swagger project test|grep -v failing"
+    "test": "mocha test/**/*.js"
   }
 }
